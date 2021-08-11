@@ -1,0 +1,6 @@
+MultArray:
+Num_elements,   Local_Size,    Performance
+MultArrayAdd:
+Num_elements,   Local_Size,    Performance
+MultArrayReduction
+Num_elements,   Local_Size,    Performance
